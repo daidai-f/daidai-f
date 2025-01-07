@@ -2,7 +2,7 @@
 
 
 ### Bio
-I'm currently working on the mobile network and monitoring system development.  
+I'm currently working on the mobile network development and monitoring system development.  
 As a hobby, I'm currently learning Rust, Typescript, and Go.  
 I'm also interested in cryptocurrency and AI.  
 
